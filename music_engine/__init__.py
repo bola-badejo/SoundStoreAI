@@ -1,0 +1,3 @@
+# This empty-ish file tells Python "this folder is a package".
+# After this exists, we can write  from music_engine.theory import ...
+# in other files. That's it — that's the whole purpose of __init__.py.
